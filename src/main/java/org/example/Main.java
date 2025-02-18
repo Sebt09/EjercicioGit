@@ -6,6 +6,12 @@ public class Main {
 
         System.out.println("Comandos Git");
 
-
+        System.out.println("COMANDOS GIT");
+        System.out.println("git status");
+        System.out.println("git add .");
+        System.out.println("git commit -m");
+        System.out.println("git push origin nombreRama");
+        System.out.println("git branch");
+        System.out.println("git switch");
     }
 }
